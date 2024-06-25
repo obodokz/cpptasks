@@ -57,7 +57,7 @@ int main() {
     vector<vector<int>> menPreferences = {
         {1, 0, 2, 3},
         {3, 1, 0, 2},
-        {0, 1, 3, 2},
+        {0, 1, 3, 2}, 
         {1, 2, 3, 0}
     };
 
